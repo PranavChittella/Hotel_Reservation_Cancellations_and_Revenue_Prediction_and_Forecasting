@@ -9,3 +9,4 @@ Problem Statement:
 The data points us to various segments of Machine Learning with many variables, hence I have chosen it perform classification for predicting the cancellations of the bookings made.Also, as an extension we are predicting the ADR as a time-series variable.
 ADR (Average Daily Rate) is defined Calculated by dividing the sum of all lodging transactions by the total number of staying nights.
 
+ClassificationHotelProblem.ipynb Notebook consists of the classification activity performed on the "IsCancelled" feature. Data Analysis and the algorithms (XGBoost,LightGBM,CatBoost) and a tailor-made Stacker Algorithm is shown through interactive comments. Additionaly , a deep Neural Network is applied as well. The models are saved for deployment with StreamLit.
